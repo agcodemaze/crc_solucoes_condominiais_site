@@ -29,8 +29,7 @@
       width:150px;      /* ajuste aqui o tamanho */
       height:auto;
       max-width:40vw;    /* responsivo */
-      border-radius:8px; /* opcional */
-      box-shadow:0 6px 18px rgba(0,0,0,0.06);
+      border-radius:0px; /* opcional */
     }
     .visually-hidden{
       position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px);white-space:nowrap;border:0;padding:0;margin:-1px
