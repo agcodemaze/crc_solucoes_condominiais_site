@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Logo Centralizado</title>
+  <title>CRC Soluções Condominiais</title>
   <style>
     :root{--bg:#ffffff}
     html,body{height:100%;margin:0}
@@ -40,7 +40,7 @@
   <main class="wrap">
     <figure class="logo-box">
       <img src="sources/img/logo.jpeg" alt="Logotipo" loading="lazy" onerror="this.style.display='none'">
-      <figcaption class="visually-hidden">Logotipo centralizado</figcaption>
+      <figcaption class="visually-hidden"></figcaption>
     </figure>
   </main>
 </body>
