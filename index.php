@@ -1,3 +1,48 @@
-<?php
-echo "teste";
-?>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Logo Centralizado</title>
+  <style>
+    :root{--bg:#ffffff}
+    html,body{height:100%;margin:0}
+    body{
+      background:var(--bg);
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+    }
+    .wrap{
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:20px;
+      box-sizing:border-box;
+    }
+    .logo-box{
+      text-align:center;
+    }
+    .logo-box img{
+      display:inline-block;
+      width:150px;      /* ajuste aqui o tamanho */
+      height:auto;
+      max-width:40vw;    /* responsivo */
+      border-radius:8px; /* opcional */
+      box-shadow:0 6px 18px rgba(0,0,0,0.06);
+    }
+    .visually-hidden{
+      position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px);white-space:nowrap;border:0;padding:0;margin:-1px
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <figure class="logo-box">
+      <img src="sources/img/logo.jpeg" alt="Logotipo" loading="lazy" onerror="this.style.display='none'">
+      <figcaption class="visually-hidden">Logotipo centralizado</figcaption>
+    </figure>
+  </main>
+</body>
+</html>
