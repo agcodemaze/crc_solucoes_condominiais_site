@@ -10,7 +10,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Condomaze - Inovação ao Alcance do Síndico</title>
+  <title>CRC Soluções Condominiais</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
   <meta charset="UTF-8">
@@ -62,8 +62,6 @@
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
-
-      <a class="cta-btn" href="https://cliente.condomaze.com.br" target="_blank">Acesse o app</a>
 
     </div>
   </header>
@@ -926,14 +924,13 @@ O investimento é simbólico e, nesse caso, não gera cashback para o condomíni
       <p>Inovação ao Alcance do Síndico</p>
       <br>
       <p>Horário de Atendimento: Segunda á Sexta dás 09h ás 17h</p>
-      <p><a href="https://condomaze.com.br/app_condomaze.apk" target="_blank">Download App Android</a></p>
-      <div class="social-links d-flex justify-content-center">
+        <div class="social-links d-flex justify-content-center">
         <a href="https://www.instagram.com/agenciacodemaze" target="_blank"><i class="bi bi-instagram"></i></a>
         <a href="https://br.linkedin.com/company/agencia-codemaze" target="_blank"><i class="bi bi-linkedin"></i></a>
       </div>
       <div class="container">
         <div class="copyright">
-          <span>Copyright</span> <strong class="px-1 sitename">Condomaze</strong> <span>Todos os direitos reservados</span>
+          <span>Copyright</span> <strong class="px-1 sitename">CRC Soluções Condominiais</strong> <span>Todos os direitos reservados</span>
         </div>
         <div class="credits">
           Desenvolvido por <a href="https://codemaze.com.br" target="_blank">Codemaze</a>
