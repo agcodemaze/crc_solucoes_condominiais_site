@@ -150,7 +150,7 @@
 
       <!-- Texto -->
       <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-        <p>Sindicatura profissional que vai além da administração tradicional</p>
+        <p>Sindicatura profissional que vai além da administração tradicional, entregando soluções eficientes e uma atuação presente, segura e comprometida com o bem-estar dos condôminos.</p>
         <ul>
           <li><i class="bi bi-check2-circle"></i> <span>Entrega 
 de
