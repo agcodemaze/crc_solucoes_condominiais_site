@@ -414,8 +414,12 @@ de
 <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
 
         <div class="subheading">
-          <h3>What we have achieved so far</h3>
-          <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p>
+          <h3>Histórias que Transformam</h3>
+          <p>Em nossa carteira de clientes, atuamos como
+ síndicos profissionais há mais de 7 anos,
+ conquistando 100% de reeleição, o que
+ demonstra a confiança e satisfação dos
+ condôminos com a nossa gestão. </p>
         </div>
 
         <div class="row gy-4">
