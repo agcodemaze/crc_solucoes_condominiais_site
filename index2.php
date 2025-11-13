@@ -89,9 +89,9 @@
       </div>
 
       <div class="container d-flex flex-column align-items-center text-center">
-        <h2 id="hero-title" data-aos="fade-up" data-aos-delay="100">Inovação ao Alcance do Síndico</h2>
+        <h2 id="hero-title" data-aos="fade-up" data-aos-delay="100">Gestão condominial com experiência e transparência.</h2>
         <p id="hero-text" data-aos="fade-up" data-aos-delay="200">
-          Gerencie manutenções, orçamentos, tarefas e muito mais — tudo em um só lugar, simples e eficiente.
+          Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio.
         </p>
       </div>
     </section>
@@ -99,16 +99,16 @@
   <script>
     const heroMessages = [
       {
-        title: "Inovação ao Alcance do Síndico",
-        text: "Gerencie manutenções, orçamentos, tarefas e muito mais — tudo em um só lugar, simples e eficiente."
+        title: "Gestão condominial com experiência e transparência.",
+        text: "Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio."
       },
       {
-        title: "Revolucione a comunicação",
-        text: "Transforme a comunicação no seu condomínio, tornando-a mais ágil, transparente e conectada com todos os moradores."
+        title: "Soluções que geram economia e segurança.",
+        text: "A CRC atua com planejamento, controle e tecnologia para garantir eficiência em cada detalhe da gestão."
       },
       {
-        title: "Tecnologia que Aproxima",
-        text: "Acompanhe tudo em tempo real com precisão, praticidade e integração inteligente."
+        title: "Mais que administrar, cuidamos de pessoas.",
+        text: "Gestão humanizada, presença constante e compromisso real com o bem-estar dos condôminos."
       }
     ];
 
