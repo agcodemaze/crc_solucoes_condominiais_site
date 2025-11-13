@@ -312,6 +312,12 @@ de
     <!-- Features Section -->
     <section id="metodologia" class="features section">
 
+          <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Metodologia de
+ trabalho</h2>
+      </div><!-- End Section Title -->
+
       <div class="container">
 
         <div class="row gy-4">
