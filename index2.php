@@ -210,21 +210,21 @@ de
 
         <div class="row gy-4">
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="1445" data-purecounter-duration="1" class="purecounter"></span>
               <p>Moradores<br>Impactados</p>
             </div>
           </div><!-- End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1" class="purecounter"></span>
               <p>Condomínios<br>Geridos</p>
             </div>
           </div><!-- End Stats Item -->
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
               <p>Cidades<br>Atendidas</p>
@@ -409,104 +409,6 @@ de
 
     </section><!-- /Features Section -->
 
-
-    <!-- Faq Section -->
-    <section id="faq" class="faq section">
-
-      <div class="container-fluid">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-12 d-flex flex-column justify-content-center order-2 order-lg-1">
-
-            <div class="content px-xl-5" data-aos="fade-up" data-aos-delay="100">
-              <h3><span>Perguntas </span><strong>Frequentes</strong></h3>
-              <p>
-                Tem dúvidas? Aqui estão as respostas para as perguntas mais comuns sobre o sistema Condomaze.
-Se não encontrar o que precisa, <a href="#contact">fale com a gente</a>, estamos sempre prontos para ajudar!
-              </p>
-            </div>
-
-            <div class="faq-container px-xl-5" data-aos="fade-up" data-aos-delay="200">
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>É possível receber nota fiscal e pagar por transferência bancária?</h3>
-                <div class="faq-content">
-                  <p>Sim! Emitimos nota fiscal e também oferecemos a opção de pagamento por cartão de crédito ou transferência bancária. Para isso, entre em contato com a nossa equipe pelo e-mail suporte@codemaze.com.br e teremos prazer em ajudar.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Síndicos profissionais têm condições especiais?</h3>
-                <div class="faq-content">
-                  <p>Com certeza! Ao contratar o sistema para 3 ou mais condomínios, você garante descontos exclusivos. Fale com a nossa equipe pelo e-mail suporte@codemaze.com.br ou preencha o formulário abaixo e agende uma reunião com um de nossos representantes.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Posso cancelar a qualquer momento?</h3>
-                <div class="faq-content">
-                  <p>Para cancelar sua assinatura, basta acessar a sua área de assinaturas e realizar o cancelamento diretamente por lá.
-Nos planos Completo e Master IA, é necessário entrar em contato com a equipe da Codemaze para concluir o cancelamento.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Existe algum custo para a implantação?</h3>
-                <div class="faq-content">
-                  <p>Depende! A cobrança pela implantação pode variar (em muitos casos nem existir). Caso seja necessária a migração de dados, entre em contato conosco pelo e-mail suporte@codemaze.com.br para que possamos avaliar seu caso detalhadamente.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-                <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Como funciona o programa de parceria (cashback)?</h3>
-                <div class="faq-content">
-                  <p>Buscamos estabelecimentos interessados em anunciar no sistema Condomaze, oferecendo descontos exclusivos aos moradores. Para parceiros que aderirem, 5% do valor do anúncio é convertido em descontos na mensalidade do sistema. 
-                    A modalidade de cashback só está disponível nos planos Completo e Master IA.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Sou morador e tenho um negócio. Posso anunciar na área de parceiros do sistema?</h3>
-                <div class="faq-content">
-                  <p>Com certeza! Moradores empreendedores têm 75% de desconto na contratação de 1(um) anúncio no formato Tarja Simples.
-O investimento é simbólico e, nesse caso, não gera cashback para o condomínio, mas é uma excelente forma de divulgar seu negócio diretamente para a vizinhança! </p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Indiquei um parceiro para anunciar. Tenho algum benefício com isso?</h3>
-                <div class="faq-content">
-                  <p>Com certeza! Toda vez que um anunciante parceiro for indicado por você (morador ou síndico), 5% do valor do anúncio será convertido em cashback para o condomínio, mensalmente, enquanto o parceiro continuar ativo na plataforma.
-                    Lembrando que a modalidade de cashback só está disponível nos planos Completo e Master IA.
-                  </p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-            </div>
-
-          </div>
-
-
-        </div>
-
-      </div>
-
-    </section><!-- /Faq Section -->
 
     <!-- Contact Section -->
     <section id="contact" class="contact section light-background">
