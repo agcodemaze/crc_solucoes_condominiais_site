@@ -136,7 +136,7 @@
   </script>
 
 <!-- About Section -->
-<section id="vantagens" class="about section">
+<section id="empresa" class="about section">
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2> A Empresa</h2>
@@ -198,7 +198,7 @@ de
 </section><!-- /About Section -->
 
     <!-- Services Section -->
-    <section id="recursos" class="services section">
+    <section id="diferenciais" class="services section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
@@ -310,7 +310,7 @@ de
     </section><!-- /Services Section -->
 
     <!-- Features Section -->
-    <section id="features" class="features section">
+    <section id="metodologia" class="features section">
 
       <div class="container">
 
@@ -334,38 +334,6 @@ de
               </div>
             </div><!-- End Features Item-->
 
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-balloon flex-shrink-0"></i>
-              <div>
-                <h4>Salão de Festas</h4>
-                <p>Crie listas de convidados com antecedência e facilite o controle de acesso durante eventos no salão de festas.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-person-check flex-shrink-0"></i>
-              <div>
-                <h4>Controle de Convidados</h4>
-                <p>Inove e ofereça ainda mais autonomia ao morador na hora de receber amigos e familiares.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-p-square flex-shrink-0"></i>
-              <div>
-                <h4>Estacionamento de Visitantes</h4>
-                <p>Controle fácil e rápido de ocupação de vagas destinadas a visitantes dos moradores.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="500">
-              <i class="bi bi-chat-left-text flex-shrink-0"></i>
-              <div>
-                <h4>Mural de Sugestões</h4>
-                <p>Dê voz aos moradores com um mural anônimo e colaborativo, ajudando a sentir o clima no condomínio.</p>
-              </div>
-            </div><!-- End Features Item-->
-
           </div>
 
           <div class="col-lg-6 order-lg-1">
@@ -383,38 +351,6 @@ de
               <div>
                 <h4>Integração com IA</h4>
                 <p>Ganhe agilidade no dia a dia com a integração da inteligência artificial à sua gestão.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-bar-chart flex-shrink-0"></i>
-              <div>
-                <h4>Painel Administrativo</h4>
-                <p>Visualize todas as informações do condomínio de forma clara e organizada em um dashboard intuitivo e fácil de usar.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-book flex-shrink-0"></i>
-              <div>
-                <h4>Central de Aprendizado</h4>
-                <p>Vídeos tutoriais completos disponíveis no sistema para facilitar o uso e tirar suas dúvidas sempre que precisar.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="500">
-              <i class="bi bi-basket flex-shrink-0"></i>
-              <div>
-                <h4>Feira do Condomínio</h4>
-                <p>Plataforma exclusiva que conecta vizinhos para a compra e venda de itens usados.</p>
-              </div>
-            </div><!-- End Features Item-->
-
-            <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="500">
-              <i class="bi bi-chat-dots flex-shrink-0"></i>
-              <div>
-                <h4>Sua voz nos ajuda a melhorar</h4>
-                <p>Tem uma sugestão ou ideia de melhoria? Envie para nós, com certeza vamos avaliar.</p>
               </div>
             </div><!-- End Features Item-->
 
