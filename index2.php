@@ -407,7 +407,7 @@ de
     </section><!-- /About Section -->
 
     <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action section dark-background">
+    <section id="call-to-action" class="stats section dark-background">
 
       <img src="assets/img/cta-bg2.jpg" alt="">
 
