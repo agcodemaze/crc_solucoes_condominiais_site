@@ -2459,15 +2459,19 @@ section,
   z-index: 1;
 }
 
+/* garante que o header continue fino */
 #header {
   background-color: #fff;
-  height: 70px; /* mantém a altura original da barra */
-  overflow: visible; /* permite que o logo ultrapasse a altura */
-  z-index: 999; /* mantém o header acima de outros elementos */
+  height: 70px; /* altura da barra */
+  overflow: visible; /* permite o logo ultrapassar a altura */
+  z-index: 999;
 }
 
+/* remove restrições que o tema pode aplicar */
 #header .logo img {
-  height: 100px; /* deixa o logo maior que a barra */
+  max-height: none !important; /* remove limites de altura do tema */
+  height: 120px; /* tamanho real do logo */
+  width: auto; /* mantém proporção */
   position: relative;
-  top: 15px; /* ajusta para o logo “sair” da barra para baixo */
+  top: -25px; /* faz o logo “subir” sobre a barra */
 }

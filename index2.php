@@ -45,11 +45,9 @@
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
-        <img src="assets/img/CRC_novo_logo_100.png" alt="">
-      </a>
+<a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
+  <img src="assets/img/CRC_novo_logo_100.png" alt="">
+</a>
 
       <nav id="navmenu" class="navmenu">
         <ul>
