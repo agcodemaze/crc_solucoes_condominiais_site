@@ -141,8 +141,7 @@
   <div class="container section-title" data-aos="fade-up">
     <h2>Vantagens</h2>
     <p>
-      Condomaze é sinônimo de gestão inteligente e sem complicações. <br>
-      Com nossa tecnologia de ponta, leve mais transparência e eficiência para a comunicação com seus moradores.
+    Gestão condominial profissional que une experiência, transparência e resultados.
     </p>
   </div><!-- End Section Title -->
 
@@ -158,7 +157,25 @@
           <li><i class="bi bi-check2-circle"></i> <span>Menos burocracia, mais eficiência.</span></li>
         </ul>
 
-        Transforme a gestão do seu condomínio com mais agilidade, organização e transparência. O sistema Condomaze foi pensado para facilitar a rotina do síndico e melhorar a comunicação com os moradores. Com uma plataforma intuitiva e moderna, você reduz o trabalho manual, evita retrabalhos e toma decisões com mais confiança.
+         Sindicatura profissional que vai além da
+ administração 
+tradicional: 
+entrega 
+de
+ resultados concretos, segurança e eficiência,
+ sempre alinhando o condomínio às melhores
+ práticas administrativas, técnicas e legais do
+ mercado. 
+Sou formado em Direito pela Faculdade
+ Anhanguera de Campinas (2021), com cursos
+ na área condominial como manutenção e
+ conservação de elevadores pelo SECISP e
+ especialização em sindicatura profissional pelo
+ ICCOND. 
+Atuo desde 2017 na implantação e gestão
+ de condomínios, com foco em soluções
+ rápidas, racionais e inovadoras que garantem
+ segurança, economia e valorização patrimonial.
       </div>
 
       <!-- Vídeo ajustado -->
