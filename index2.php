@@ -411,25 +411,44 @@ de
 
       <img src="assets/img/cta-bg2.jpg" alt="">
 
-      <div class="container">
+<div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-          <div class="col-xl-9 text-center text-xl-start">
-            <h3>Agende uma demonstração</h3>
-            <p>
-             Descubra como o nosso sistema pode transformar a gestão do seu condomínio!<br>
-             Você verá na prática como funciona toda a solução Condomaze.<br>
-             Tire suas dúvidas ao vivo com nossa equipe e veja como é fácil modernizar a comunicação e o dia a dia do seu condomínio com tecnologia de verdade.
-              <br><br>
-             <strong><span style="font-size: 24px;">É rápido, gratuito e sem compromisso.</span></strong>
-            </p>
-          </div>
-          <div class="col-xl-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#contact">Agendar</a>
-          </div>
+        <div class="subheading">
+          <h3>What we have achieved so far</h3>
+          <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p>
         </div>
 
-      </div>
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clients</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Projects</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Of Support</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Workers</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+        </div>
 
     </section><!-- /Call To Action Section -->
 
