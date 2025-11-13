@@ -52,10 +52,10 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="#hero" class="active">Inicial</a></li>
-          <li><a href="#vantagens">Vantagens</a></li>
-          <li><a href="#recursos">Recursos</a></li>
-          <li><a href="#pricing">Planos</a></li>
-          <li><a href="#faq">FAQ</a></li>
+          <li><a href="#empresa">A Empresa</a></li>
+          <li><a href="#diferenciais">Diferenciais</a></li>
+          <li><a href="#metodologia">Metodologia</a></li>
+          <li><a href="#experiencias">Experiências</a></li>
           <li><a href="#contact">Contato</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
