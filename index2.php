@@ -208,7 +208,7 @@ de
  é pautada em um modelo de gestão que une
  conhecimento técnico, experiência prática e
  proximidade com os condôminos.
- Outubro 2025
+
  Mais do que administrar, nosso compromisso
  é oferecer uma gestão transparente, eficiente
  e personalizada, capaz de promover
@@ -226,9 +226,11 @@ de
                 <i class="bi bi-activity"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Gestão de Atividades</h3>
+                <h3>Formação e Experiência</h3>
               </a>
-              <p>Mantenha todas as tarefas do condomínio organizadas e sob controle, garantindo que cada atividade seja planejada, executada e acompanhada com facilidade.</p>
+              <p> Síndico formado em Direito, atuando
+ desde 2017 em condomínios novos e
+ consolidados. </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -238,9 +240,10 @@ de
                 <i class="bi bi-cart-dash"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Gestão de Orçamentos</h3>
+                <h3>Gestão Transparente</h3>
               </a>
-              <p>Com a Gestão de Orçamentos, você acompanha cada proposta recebida, garantindo que as melhores opções sejam analisadas antes da decisão final.</p>
+              <p> Processos claros, comunicação aberta e
+ uso de tecnologia para maior eficiência. </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -250,9 +253,11 @@ de
                 <i class="bi bi-building"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Prestadores de Serviço</h3>
+                <h3>Atuação Técnica</h3>
               </a>
-              <p>Mantenha um cadastro completo e atualizado dos prestadores de serviço, facilitando a contratação e o acompanhamento de cada fornecedor com segurança e organização.</p>
+              <p>Capacitação em manutenção de
+ elevadores e sistemas essenciais,
+ prevenindo riscos e custos. </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -262,9 +267,11 @@ de
                 <i class="bi bi-list-task"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Gestão de Pendências</h3>
+                <h3>Proximidade com Condôminos</h3>
               </a>
-              <p>A Gestão de Pendências permite ao síndico organizar as demandas em aberto e manter os moradores informados sobre o andamento dos trabalhos.</p>
+              <p>Atendimento ágil, cordial e soluções
+ práticas para demandas rotineiras e
+ extraordinárias. </p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -275,9 +282,10 @@ de
                 <i class="bi bi-calendar4-week"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Procedimentos e Comunicados</h3>
+                <h3>Valorização Patrimonial</h3>
               </a>
-              <p>Registre e compartilhe procedimentos essenciais do condomínio, mantendo todos os moradores informados e alinhados.</p>
+              <p>Foco na manutenção e melhoria dos
+ ativos do condomínio.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -288,9 +296,9 @@ de
                 <i class="bi bi-speedometer"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Indicador Financeiro</h3>
+                <h3>Segurança Jurídica</h3>
               </a>
-              <p>Permita que moradores entendam facilmente o resumo financeiro, sem precisar se perder em relatórios complexos.</p>
+              <p>Garantia de que todas as decisões, contratos, documentos e procedimentos do condomínio estejam alinhados às normas legais e boas práticas jurídicas.</p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
