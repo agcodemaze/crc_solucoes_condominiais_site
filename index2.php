@@ -415,40 +415,36 @@ de
 
         <div class="subheading">
           <h3>Histórias que Transformam</h3>
-          <p>Em nossa carteira de clientes, atuamos como
- síndicos profissionais há mais de 7 anos,
- conquistando 100% de reeleição, o que
- demonstra a confiança e satisfação dos
- condôminos com a nossa gestão. </p>
+          <p>Atuamos como síndicos profissionais há mais de 7 anos, com 100% de reeleição.</p>
         </div>
 
         <div class="row gy-4">
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Clients</p>
+              <span data-purecounter-start="0" data-purecounter-end="1445" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Moradores<br>Impactados</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Projects</p>
+              <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Condomínios<br>Geridos</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Cidades<br>Atendidas</p>
             </div>
           </div><!-- End Stats Item -->
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Workers</p>
+              <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="purecounter">%</span>
+              <p>Reeleição</p>
             </div>
           </div><!-- End Stats Item -->
 
