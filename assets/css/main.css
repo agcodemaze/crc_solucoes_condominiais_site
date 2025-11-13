@@ -222,10 +222,10 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: rgb(255, 9, 9);
+  --background-color: rgb(255, 9, 9); /* BARRA SUPERIOR BG */
   --default-color: #ffffff;
   --heading-color: #ffffff;
-  color: var(--default-color);
+  color: #1201ff;
   background-color: var(--background-color);
   padding: 10px 0;
   transition: all 0.5s;
