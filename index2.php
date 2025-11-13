@@ -327,16 +327,19 @@ de
             <div class="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-box flex-shrink-0"></i>
               <div>
-                <h4>Gestão de Encomendas</h4>
-                <p>Registre e controle as encomendas do condomínio com segurança e organização. Oferecendo muita comodidade ao morador.</p>
+                <h4>Relação com o condômino</h4>
+                <p> Independente das ações estritamente administrativas, tenho como norte alguns valores de
+ cunho pessoal, utilizando os recursos no foco do cliente, entendendo seus problemas,
+ vivenciando seu dia-a-dia, estabelecendo relações harmoniosas, sem, contudo, se esquecer
+ do profissionalismo.</p>
               </div>
             </div><!-- End Features Item-->
 
             <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-chat-square-text flex-shrink-0"></i>
               <div>
-                <h4>Enquentes</h4>
-                <p>Crie e gerencie enquetes personalizadas para ouvir a opinião dos moradores de forma prática e organizada.</p>
+                <h4>Gestão financeira</h4>
+                <p>A gestão financeira inclui a análise do cenário econômico, garantindo a correta aplicação dos recursos. Envolve o acompanhamento das receitas e despesas, identificando desperdícios e oportunidades de economia, além da revisão de contratos para assegurar o melhor custo-benefício e o uso eficiente dos recursos do condomínio.</p>
               </div>
             </div><!-- End Features Item-->
 
@@ -347,16 +350,16 @@ de
             <div class="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-shop flex-shrink-0"></i>
               <div>
-                <h4>Programa de Parceiros</h4>
-                <p>Com nosso programa exclusivo de parcerias com cashback, você pode zerar totalmente sua mensalidade e ainda oferecer aos moradores acesso a descontos especiais com nossos parceiros!</p>
+                <h4>Prestação de contas</h4>
+                <p>A prestação de contas é realizada mensalmente, com reunião junto ao Conselho Consultivo para apresentar as atividades executadas, pendências e decisões do condomínio. Também é enviado um relatório completo com as ações realizadas e o extrato bancário do período, garantindo total transparência.</p>
               </div>
             </div><!-- End Features Item-->
 
             <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-cpu flex-shrink-0"></i>
               <div>
-                <h4>Integração com IA</h4>
-                <p>Ganhe agilidade no dia a dia com a integração da inteligência artificial à sua gestão.</p>
+                <h4>Gestão de pessoas</h4>
+                <p>A gestão de pessoas envolve a aplicação do Regulamento Interno, com advertências e multas quando necessário, além da mediação de conflitos entre condôminos. Também inclui o controle da inadimplência em parceria com a administradora, buscando acordos extrajudiciais, e a conferência das rotinas do zelador para garantir o bom funcionamento do condomínio.</p>
               </div>
             </div><!-- End Features Item-->
 
