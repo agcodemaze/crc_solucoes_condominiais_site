@@ -48,7 +48,7 @@
       <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <img src="assets/img/logo_full_new_600.png" alt="">
+        <img src="assets/img/CRC_novo_logo_100.png" alt="">
       </a>
 
       <nav id="navmenu" class="navmenu">
