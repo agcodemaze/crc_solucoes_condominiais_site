@@ -152,19 +152,19 @@
       <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
         <p>Sindicatura profissional que vai além da administração tradicional</p>
         <ul>
-          <li><i class="bi bi-check2-circle"></i> <span>entrega 
+          <li><i class="bi bi-check2-circle"></i> <span>Entrega 
 de
  resultados concretos, segurança e eficiência,
  sempre alinhando o condomínio às melhores
  práticas administrativas, técnicas e legais do
- mercado.</span></li>
-          <li><i class="bi bi-check2-circle"></i> <span>Sou formado em Direito pela Faculdade
+ mercado.</span></li><br>
+          <li><i class="bi bi-check2-circle"></i> <span>Formado em Direito pela Faculdade
  Anhanguera de Campinas (2021), com cursos
  na área condominial como manutenção e
  conservação de elevadores pelo SECISP e
  especialização em sindicatura profissional pelo
- ICCOND.</span></li>
-          <li><i class="bi bi-check2-circle"></i> <span>Atuo desde 2017 na implantação e gestão
+ ICCOND.</span></li><br>
+          <li><i class="bi bi-check2-circle"></i> <span>Desde 2017 atuando na implantação e gestão
  de condomínios, com foco em soluções
  rápidas, racionais e inovadoras que garantem
  segurança, economia e valorização patrimonial.</span></li>
@@ -176,13 +176,19 @@ de
 
       </div>
 
+          <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/alexa.png" alt="Alexa" style="max-width: 60%; height: auto;">
+          </div>
+
       <!-- Vídeo ajustado -->
+       <!--
       <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="200">
         <video autoplay muted playsinline loop style="max-width: 100%; height: auto;">
           <source src="video.mp4" type="video/mp4">
           Seu navegador não suporta vídeo.
         </video>
       </div>
+      -->
 
     </div>
   </div>
