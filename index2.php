@@ -170,10 +170,10 @@ de
  segurança, economia e valorização patrimonial.</span></li>
         </ul>
 
-<div style="margin-top:20px; padding-left:6px; border-left:3px solid #0d6efd; font-style:italic; line-height:1.4;">
-  <strong style="font-size:1.1rem; font-weight:600;">Clériston Ramon Cruz</strong><br>
-  <span style="font-size:0.95rem; color:#555;">Diretor Executivo • Síndico Profissional</span>
-</div>
+        <div style="margin-top:20px; padding-left:6px; border-left:3px solid #0d6efd; font-style:italic; line-height:1.4;">
+          <strong style="font-size:1.1rem; font-weight:600;">Clériston Ramon Cruz</strong><br>
+          <span style="font-size:0.95rem; color:#555;">Diretor Executivo • Síndico Profissional</span>
+        </div>
  
  
 
@@ -202,8 +202,18 @@ de
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Recursos</h2>
-        <p>Funções inteligentes para uma gestão comunicativa, organizada e moderna.</p>
+        <h2>Diferenciais</h2>
+        <p>Cada condomínio possui suas particularidades,
+ desafios e expectativas. Por isso, nossa atuação
+ é pautada em um modelo de gestão que une
+ conhecimento técnico, experiência prática e
+ proximidade com os condôminos.
+ Outubro 2025
+ Mais do que administrar, nosso compromisso
+ é oferecer uma gestão transparente, eficiente
+ e personalizada, capaz de promover
+ segurança, valorização patrimonial e harmonia
+ entre todos os envolvidos</p>
       </div><!-- End Section Title -->
 
       <div class="container">
