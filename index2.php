@@ -139,7 +139,7 @@
 <section id="vantagens" class="about section">
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
-    <h2>Vantagens</h2>
+    <h2> A Empresa</h2>
     <p>
     Gestão condominial profissional que une experiência, transparência e resultados.
     </p>
@@ -150,32 +150,30 @@
 
       <!-- Texto -->
       <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-        <p>Gestão de condomínio sem dor de cabeça.</p>
+        <p>Sindicatura profissional que vai além da administração tradicional</p>
         <ul>
-          <li><i class="bi bi-check2-circle"></i> <span>Organização, clareza e controle.</span></li>
-          <li><i class="bi bi-check2-circle"></i> <span>Fácil de usar, difícil de ficar sem.</span></li>
-          <li><i class="bi bi-check2-circle"></i> <span>Menos burocracia, mais eficiência.</span></li>
-        </ul>
-
-         Sindicatura profissional que vai além da
- administração 
-tradicional: 
-entrega 
+          <li><i class="bi bi-check2-circle"></i> <span>entrega 
 de
  resultados concretos, segurança e eficiência,
  sempre alinhando o condomínio às melhores
  práticas administrativas, técnicas e legais do
- mercado. 
-Sou formado em Direito pela Faculdade
+ mercado.</span></li>
+          <li><i class="bi bi-check2-circle"></i> <span>Sou formado em Direito pela Faculdade
  Anhanguera de Campinas (2021), com cursos
  na área condominial como manutenção e
  conservação de elevadores pelo SECISP e
  especialização em sindicatura profissional pelo
- ICCOND. 
-Atuo desde 2017 na implantação e gestão
+ ICCOND.</span></li>
+          <li><i class="bi bi-check2-circle"></i> <span>Atuo desde 2017 na implantação e gestão
  de condomínios, com foco em soluções
  rápidas, racionais e inovadoras que garantem
- segurança, economia e valorização patrimonial.
+ segurança, economia e valorização patrimonial.</span></li>
+        </ul>
+
+
+ 
+ 
+
       </div>
 
       <!-- Vídeo ajustado -->
