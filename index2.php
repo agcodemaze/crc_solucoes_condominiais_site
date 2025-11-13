@@ -55,7 +55,6 @@
           <li><a href="#empresa">A Empresa</a></li>
           <li><a href="#diferenciais">Diferenciais</a></li>
           <li><a href="#metodologia">Metodologia</a></li>
-          <li><a href="#experiencias">Experiências</a></li>
           <li><a href="#contact">Contato</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -196,6 +195,45 @@ de
     </div>
   </div>
 </section><!-- /About Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="stats section dark-background">
+
+      <img src="assets/img/cta-bg2.jpg" alt="">
+
+      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="subheading">
+          <h3>Histórias que Transformam</h3>
+          <p>Atuamos como síndicos profissionais há mais de 7 anos, com 100% de reeleição.</p>
+        </div>
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1445" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Moradores<br>Impactados</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Condomínios<br>Geridos</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Cidades<br>Atendidas</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+        </div>
+
+    </section><!-- /Call To Action Section -->
 
     <!-- Services Section -->
     <section id="diferenciais" class="services section">
@@ -371,353 +409,6 @@ de
 
     </section><!-- /Features Section -->
 
-    <!-- About Section -->
-    <section id="vantagens" class="about section">
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Integração Inteligente</h2>
-        <p>
-          Revolucione a experiência em condomínio com a Alexa!<br>Agora, o sistema Condomaze se integra diretamente com a assistente de voz da Amazon, trazendo mais conveniência e agilidade para o seu dia a dia.
-        </p>
-      </div><!-- End Section Title -->
-      
-      <div class="container">
-        <div class="row gy-4 align-items-center">
-      
-          <!-- Texto -->
-          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
-            <p>Com simples comandos de voz, você pode:</p>
-            <ul>
-              <li><i class="bi bi-check2-circle"></i> <span><strong>Consultar encomendas:</strong> Pergunte se alguma encomenda chegou para você e evite idas desnecessárias à portaria.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span><strong>Verificar visitantes:</strong> Saiba quem está cadastrado para te visitar, garantindo a segurança e o controle de acesso.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span><strong>Saber sobre a inadimplência:</strong> Mantenha-se informado sobre o percentual de inadimplência do seu condomínio.</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span><strong>Consultar o fundo de reserva:</strong> Tenha acesso rápido ao valor atualizado do fundo de reserva.</span></li>
-            </ul>
-      
-            Com a integração entre Condomaze e Alexa, as informações mais importantes do seu condomínio estão sempre a uma pergunta de distância.
-          </div>
-      
-          <!-- Vídeo ajustado -->
-          <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/alexa.png" alt="Alexa" style="max-width: 60%; height: auto;">
-          </div>
-      
-        </div>
-      </div>
-    </section><!-- /About Section -->
-
-    <!-- Call To Action Section -->
-    <section id="call-to-action" class="stats section dark-background">
-
-      <img src="assets/img/cta-bg2.jpg" alt="">
-
-<div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="subheading">
-          <h3>Histórias que Transformam</h3>
-          <p>Atuamos como síndicos profissionais há mais de 7 anos, com 100% de reeleição.</p>
-        </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="1445" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Moradores<br>Impactados</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Condomínios<br>Geridos</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Cidades<br>Atendidas</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="purecounter">%</span>
-              <p>Reeleição</p>
-            </div>
-          </div><!-- End Stats Item -->
-
-        </div>
-
-    </section><!-- /Call To Action Section -->
-
-    <!-- Recent Posts Section -->
-    <section id="recent-posts" class="recent-posts section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Sua gestão merece tecnologia de ponta.</h2>
-        <p> Com ferramentas modernas e automações inteligentes, você ganha mais controle, organização e tempo para focar no que realmente importa: a tranquilidade do seu condomínio.</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <article>
-
-              <div class="post-img">
-                <img src="assets/img/sys1.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Condomínio Parque Das Hortênsias</p>
-
-              <h2 class="title">
-                <a href="#">O suporte técnico é um diferencial, sempre ágil e disponível para solucionar qualquer dúvida ou problema.</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="assets/img/michelle.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Michelle Silva</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Dez 1, 2024</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <article>
-
-              <div class="post-img">
-                <img src="assets/img/sys2.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Condomínio Dom Rafaele</p>
-
-              <h2 class="title">
-                <a href="#">Era tanta planilha e papel que eu me perdia! Agora tá tudo no sistema e a minha vida ficou bem mais fácil.</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="assets/img/blog/blog-author-2.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Melissa Dias</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Jun 5, 2024</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <article>
-
-              <div class="post-img">
-                <img src="assets/img/sys3.jpg" alt="" class="img-fluid">
-              </div>
-
-              <p class="post-category">Residencial Morada dos Ipês</p>
-
-              <h2 class="title">
-                <a href="#">Já testei várias ferramentas, mas essa foi a única que realmente resolveu minha rotina como síndico.</a>
-              </h2>
-
-              <div class="d-flex align-items-center">
-                <img src="assets/img/blog/blog-author-3.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                <div class="post-meta">
-                  <p class="post-author">Antônio Lima</p>
-                  <p class="post-date">
-                    <time datetime="2022-01-01">Mai 02, 2025</time>
-                  </p>
-                </div>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-        </div><!-- End recent posts list -->
-
-      </div>
-
-    </section><!-- /Recent Posts Section -->
-
-
-    <!-- Pricing Section -->
-    <section id="pricing" class="pricing section light-background">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Planos</h2>
-        <p>Planos acessíveis, sem complicação e com tudo o que você precisa</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="pricing-item">
-              <h3>Essencial</h3>
-              <ul>                          
-                <li class="na">IA Integrada</li>
-                <!-- Gestão Operacional -->
-                <li>Gestão de Atividades</li>
-                <li>Gestão de Orçamentos</li>
-                <li>Gestão de Fornecedores</li>
-                <li>Gestão de Ordens de Serviço</li>
-                <li>Gestão de Funcionários</li>
-                <li>Max. 3 Funcionários</li> 
-                <li>Max. 50 Usuários Cadastrados</li>             
-                <!-- Comunicação e Documentos -->
-                <li>Sistema de Enquetes</li>
-                <li>Comunicados e Procedimentos</li>
-                <li class="na">Indicadores Financeiros</li>
-                <li class="na">Gestão de Pendências</li>
-                <!-- Controle de Acessos e Logística -->
-                <li class="na">Controle de Visitantes</li>
-                <li class="na">Controle de Encomendas</li>
-                <!-- Dominioe e-mail -->
-                <li class="na">Registro de domínio .br</li>
-                <li class="na">Max. 2 caixas de E-mail</li>              
-                <!-- Benefícios e Suporte -->
-                <li>Contrato de 1(um) ano</li>
-                <li>Programa de Parcerias</li>
-                <li>Suporte via E-mail</li>
-                <li>Suporte via WhatsApp</li>
-                <li class="na">Suporte Prioritário</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Fale com a gente!</a>
-              </div>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="pricing-item">
-              <h3>Avançado</h3>
-              <!--<h4><sup>R$</sup>000,00<span> / Mês</span></h4> -->
-              <ul>                          
-                <li class="na">IA Integrada</li>                
-                <!-- Gestão Operacional -->
-                <li>Gestão de Atividades</li>
-                <li>Gestão de Orçamentos</li>
-                <li>Gestão de Fornecedores</li>
-                <li>Gestão de Ordens de Serviço</li>
-                <li>Gestão de Funcionários</li>
-                <li>Max. 4 Funcionários</li> 
-                <li>Max. 100 Usuários Cadastrados</li>             
-                <!-- Comunicação e Documentos -->
-                <li>Sistema de Enquetes</li>
-                <li>Comunicados e Procedimentos</li>
-                <li>Indicadores Financeiros</li>
-                <li class="na">Gestão de Pendências</li>
-                <!-- Controle de Acessos e Logística -->
-                <li class="na">Controle de Visitantes</li>
-                <li class="na">Controle de Encomendas</li>
-                <!-- Dominioe e-mail -->
-                <li class="na">Registro de domínio .br</li>
-                <li class="na">Max. 2 caixas de E-mail</li>              
-                <!-- Benefícios e Suporte -->
-                <li>Contrato de 1(um) ano</li>
-                <li>Programa de Parcerias</li>
-                <li>Suporte via E-mail</li>
-                <li>Suporte via WhatsApp</li>
-                <li class="na">Suporte Prioritário</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Fale com a gente!</a>
-              </div>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="pricing-item recommended">
-              <span class="recommended-badge">Recomendado</span>
-              <h3>Completo</h3>
-              <ul>                          
-                <li class="na">IA Integrada</li>
-                <!-- Gestão Operacional -->
-                <li>Gestão de Atividades</li>
-                <li>Gestão de Orçamentos</li>
-                <li>Gestão de Fornecedores</li>
-                <li>Gestão de Ordens de Serviço</li>
-                <li>Gestão de Funcionários</li>
-                <li>Max. 5 Funcionários</li> 
-                <li>Max. 200 Usuários Cadastrados</li>             
-                <!-- Comunicação e Documentos -->
-                <li>Sistema de Enquetes</li>
-                <li>Comunicados e Procedimentos</li>
-                <li>Indicadores Financeiros</li>
-                <li>Gestão de Pendências</li>
-                <!-- Controle de Acessos e Logística -->
-                <li>Controle de Visitantes</li>
-                <li>Controle de Encomendas</li>
-                <!-- Dominioe e-mail -->
-                <li class="na">Registro de domínio .br</li>
-                <li class="na">Max. 2 caixas de E-mail</li>              
-                <!-- Benefícios e Suporte -->
-                <li>Contrato de 1(um) ano</li>
-                <li>Programa de Parcerias (cashback)</li>
-                <li>Suporte via E-mail</li>
-                <li>Suporte via WhatsApp</li>
-                <li>Suporte Prioritário</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Fale com a gente!</a>
-              </div>
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="pricing-item">
-              <h3>Master IA</h3>
-              <ul>                          
-                <li>IA Integrada</li>                
-                <!-- Gestão Operacional -->
-                <li>Gestão de Atividades</li>
-                <li>Gestão de Orçamentos</li>
-                <li>Gestão de Fornecedores</li>
-                <li>Gestão de Ordens de Serviço</li>
-                <li>Gestão de Funcionários</li>
-                <li>Max. 10 Funcionários</li> 
-                <li>Max. 500 Usuários Cadastrados</li>             
-                <!-- Comunicação e Documentos -->
-                <li>Sistema de Enquetes</li>
-                <li>Comunicados e Procedimentos</li>
-                <li>Indicadores Financeiros</li>
-                <li>Gestão de Pendências</li>
-                <!-- Controle de Acessos e Logística -->
-                <li>Controle de Visitantes</li>
-                <li>Controle de Encomendas</li>
-                <!-- Dominioe e-mail -->
-                <li>Registro de domínio .br</li>
-                <li>Max. 2 caixas de E-mail</li>              
-                <!-- Benefícios e Suporte -->
-                <li>Contrato de 1(um) ano</li>
-                <li>Programa de Parcerias (cashback)</li>
-                <li>Suporte via E-mail</li>
-                <li>Suporte via WhatsApp</li>
-                <li>Suporte Prioritário</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#contact" class="btn-buy">Fale com a gente!</a>
-              </div>
-            </div>
-          </div><!-- End Pricing Item -->
-
-        </div>
-
-      </div>
-
-    </section><!-- /Pricing Section -->
 
     <!-- Faq Section -->
     <section id="faq" class="faq section">
