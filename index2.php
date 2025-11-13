@@ -89,9 +89,9 @@
       </div>
 
       <div class="container d-flex flex-column align-items-center text-center">
-        <h2 id="hero-title" data-aos="fade-up" data-aos-delay="100">Gestão condominial com experiência e transparência.</h2>
+        <h2 id="hero-title" data-aos="fade-up" data-aos-delay="100">Gestão condominial com experiência e transparência</h2>
         <p id="hero-text" data-aos="fade-up" data-aos-delay="200">
-          Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio.
+          Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio
         </p>
       </div>
     </section>
@@ -99,16 +99,16 @@
   <script>
     const heroMessages = [
       {
-        title: "Gestão condominial com experiência e transparência.",
-        text: "Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio."
+        title: "Gestão condominial com experiência e transparência",
+        text: "Administração eficiente, comunicação clara e resultados que valorizam o patrimônio do seu condomínio"
       },
       {
-        title: "Soluções que geram economia e segurança.",
-        text: "A CRC atua com planejamento, controle e tecnologia para garantir eficiência em cada detalhe da gestão."
+        title: "Soluções que geram economia e segurança",
+        text: "A CRC atua com planejamento, controle e tecnologia para garantir eficiência em cada detalhe da gestão"
       },
       {
-        title: "Mais que administrar, cuidamos de pessoas.",
-        text: "Gestão humanizada, presença constante e compromisso real com o bem-estar dos condôminos."
+        title: "Mais que administrar, cuidamos de pessoas",
+        text: "Gestão humanizada, presença constante e compromisso real com o bem-estar dos condôminos"
       }
     ];
 
