@@ -177,7 +177,7 @@ de
       </div>
 
           <div class="col-lg-6 text-center" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/sindico_1.jpg" alt="Alexa" style="max-width: 60%; height: auto;">
+            <img src="assets/img/sindico_1.jpg" alt="Alexa" style="max-width: 100%; height: auto;">
           </div>
 
       <!-- Vídeo ajustado -->
