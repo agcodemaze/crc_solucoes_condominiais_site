@@ -1,9 +1,3 @@
-<?php
-  $mensagemWhatsapp = "Olá, tenho interesse em conhecer melhor o Sistema Condomaze. Podemos conversar?";
-  $mensagemCodificada = urlencode($mensagemWhatsapp);
-  $numeroWhatsapp = "5519992502546"; 
-  $linkWhatsapp = "https://wa.me/{$numeroWhatsapp}?text={$mensagemCodificada}";
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -15,12 +9,14 @@
   <meta name="keywords" content="">
   <meta charset="UTF-8">
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- App favicon -->
    <!-- <link rel="shortcut icon" href="img_pwa/logo_icon.ico"> -->
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://crccondominios.com.br">
+<meta property="og:title" content="CRC Soluções Condominiais – Gestão Profissional e Transparente">
+<meta property="og:description" content="Sindicatura profissional com experiência, transparência e eficiência. Gestão moderna, técnica e próxima dos condôminos para garantir segurança, economia e valorização patrimonial.">
+<meta property="og:image" content="https://crccondominios.com.br/assets/img/banner_whats_top.jpg">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -433,7 +429,6 @@ de
               </div>
             </div><!-- End Info Item -->
             <br>
-            <a href="<?= $linkWhatsapp ?>" target="_blank">
             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
               
               <i class="bi bi-whatsapp flex-shrink-0" style="color: #25D366;"></i>
@@ -443,7 +438,6 @@ de
               </div>
               
             </div><!-- End Info Item -->
-            </a>
             <br>
 
             <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
