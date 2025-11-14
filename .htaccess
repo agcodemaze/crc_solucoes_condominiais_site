@@ -1,6 +1,6 @@
 # Variáveis de ambiente para SMTP
 SetEnv SMTP_HOST "mail.crccondominios.com.br"
-SetEnv SMTP_PORT "465"
+SetEnv SMTP_PORT "587"
 SetEnv SMTP_USER "contato@crccondominios.com.br"
 SetEnv SMTP_PASS "CRCemail@2025Ramon"
 SetEnv SMTP_FROM "mail.crccondominios.com.br"

@@ -16,11 +16,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (!getenv('SMTP_HOST')) {
         echo "ERRO: Variáveis SMTP não carregadas.";
     }
+        else {
+           $hostteste = getenv('SMTP_HOST');
+        echo $hostteste;
+    }
 
     if (!$emailCli || empty($nome) || empty($assunto) || empty($mensagem)) {
         echo "Dados inválidos.";
         exit;
     }
+
 
     $mail = new PHPMailer(true);
 
@@ -30,7 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->SMTPAuth   = true;
         $mail->Username   = getenv('SMTP_USER');
         $mail->Password   = getenv('SMTP_PASS');
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+
+        // desativa criptografia
+        $mail->SMTPSecure = false;  
+        $mail->SMTPAutoTLS = false; // impede que o PHPMailer tente TLS automaticamente
+
         $mail->Port       = getenv('SMTP_PORT');
         $mail->Timeout    = 20;
         $mail->SMTPDebug  = 0;
