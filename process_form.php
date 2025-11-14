@@ -13,6 +13,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $assunto = trim($_POST['assunto'] ?? '');
     $mensagem = trim($_POST['mensagem'] ?? '');
 
+    if (!getenv('SMTP_HOST')) {
+        echo "ERRO: Variáveis SMTP não carregadas.";
+    }
+
     if (!$emailCli || empty($nome) || empty($assunto) || empty($mensagem)) {
         echo "Dados inválidos.";
         exit;
