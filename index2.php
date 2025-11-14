@@ -20,7 +20,7 @@
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- App favicon -->
-  <link rel="shortcut icon" href="img_pwa/logo_icon.ico">
+   <!-- <link rel="shortcut icon" href="img_pwa/logo_icon.ico"> -->
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
