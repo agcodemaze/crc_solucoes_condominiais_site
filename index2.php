@@ -518,12 +518,11 @@ de
 
   <footer id="footer" class="footer white-background">
     <div class="container">
-      <img src="assets/img/CRC_novo_logo_130.jpg" alt="Logo" style="width: 200px; height: auto;">
+      <img src="assets/img/CRC_novo_logo_130.jpg" alt="Logo" style="width: 130px; height: auto;">
       <p></p>
       <br>
         <div class="social-links d-flex justify-content-center">
-        <a href="https://www.instagram.com/cleristonramonsindico" target="_blank"><i class="bi bi-instagram"></i></a>
-      </div>
+       
       <div class="container">
         <div class="copyright">
           <span>Copyright</span> <strong class="px-1 sitename">CRC Soluções Condominiais</strong> <span>Todos os direitos reservados</span>
