@@ -429,7 +429,7 @@ de
               <div>
                 <h3>Endereço</h3>
                 <p>Rua Edna Aparecida Pampa Fonseca, 106
- Vila Real, Cep: 13183-150 - Hortolândia/Sp</p>
+ Vila Real, Cep 13183-150 - Hortolândia/Sp</p>
               </div>
             </div><!-- End Info Item -->
             <br>
@@ -516,7 +516,7 @@ de
 
   </main>
 
-  <footer id="footer" class="footer dark-background">
+  <footer id="footer" class="footer white-background">
     <div class="container">
       <img src="assets/img/CRC_novo_logo_130.jpg" alt="Logo" style="width: 200px; height: auto;">
       <p></p>
