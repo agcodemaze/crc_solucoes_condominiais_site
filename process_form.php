@@ -22,23 +22,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     try {
         $mail->isSMTP();
-        $mail->Host       = getenv('ENV_SMTP_HOST');
+        $mail->Host       = getenv('SMTP_HOST');
         $mail->SMTPAuth   = true;
-        $mail->Username   = getenv('ENV_SMTP_USER');
-        $mail->Password   = getenv('ENV_SMTP_PASS');
+        $mail->Username   = getenv('SMTP_USER');
+        $mail->Password   = getenv('SMTP_PASS');
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port       = getenv('ENV_SMTP_PORT');
+        $mail->Port       = getenv('SMTP_PORT');
         $mail->Timeout    = 20;
         $mail->SMTPDebug  = 0;
         $mail->Debugoutput = 'error_log';
 
-        $mail->setFrom(getenv('ENV_SMTP_USER'), 'Suporte Codemaze');
-        $mail->addAddress(getenv('ENV_SMTP_USER'));
+        $mail->setFrom(getenv('SMTP_USER'), 'Contato CRC Soluções Condominiais');
+        $mail->addAddress(getenv('SMTP_USER'));
         $mail->addReplyTo($emailCli, $nome);
 
         $mail->isHTML(false);
         $mail->CharSet = 'UTF-8';
-        $mail->Subject = "ATENÇÃO: Contato pelo site da Condomaze";
+        $mail->Subject = "ATENÇÃO: Contato pelo site da CRC Soluções Condominiais";
         $mail->Body = "Nome: $nome\nE-mail: $emailCli\nTelefone: $telefone\nAssunto: $assunto\nMensagem: $mensagem\n";
 
         $mail->send();
