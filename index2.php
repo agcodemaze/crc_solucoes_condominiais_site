@@ -16,7 +16,7 @@
 <meta property="og:url" content="https://crccondominios.com.br">
 <meta property="og:title" content="CRC Soluções Condominiais – Gestão Profissional e Transparente">
 <meta property="og:description" content="Sindicatura profissional com experiência, transparência e eficiência. Gestão moderna, técnica e próxima dos condôminos para garantir segurança, economia e valorização patrimonial.">
-<meta property="og:image" content="https://crccondominios.com.br/assets/img/banner_whats_top.jpg">
+<meta property="og:image" content="https://crccondominios.com.br/site/assets/img/banner_whats_top.jpg">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
