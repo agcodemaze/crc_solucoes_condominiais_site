@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Body = "Nome: $nome\nE-mail: $emailCli\nTelefone: $telefone\nAssunto: $assunto\nMensagem: $mensagem\n";
 
         $mail->send();
-        echo "Mensagem enviada com sucesso!";
+        echo "OK";
 
     } catch (Exception $e) {
         error_log("Erro ao enviar email: " . $mail->ErrorInfo);
