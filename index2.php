@@ -528,7 +528,7 @@ de
           <span>Copyright</span> <strong class="px-1 sitename">CRC Soluções Condominiais</strong> <span>Todos os direitos reservados</span>
         </div>
         <div class="credits">
-          Desenvolvido por <a href="https://codemaze.com.br" target="_blank">Codemaze</a>
+          Desenvolvido por 
         </div>
       </div>
     </div>
