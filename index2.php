@@ -416,7 +416,7 @@ de
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Fale com a gente!</h2>
-        <p>Converse com a gente e leve o sistema Condomaze para o seu condomínio.</p>
+        <p>Converse com a gente e saiba como podemos ajudar seu condomínio.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade" data-aos-delay="100">
@@ -428,7 +428,8 @@ de
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Endereço</h3>
-                <p>Hortolândia/SP</p>
+                <p>Rua Edna Aparecida Pampa Fonseca, 106
+ Vila Real, Cep: 13183-150 - Hortolândia/Sp</p>
               </div>
             </div><!-- End Info Item -->
             <br>
@@ -438,7 +439,7 @@ de
               <i class="bi bi-whatsapp flex-shrink-0" style="color: #25D366;"></i>
               <div>
                 <h3>Telefone</h3>
-                <p>19 99250-2546 </p>
+                <p>19 98129-4376 </p>
               </div>
               
             </div><!-- End Info Item -->
@@ -449,7 +450,7 @@ de
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>E-mail</h3>
-                <p>suporte@codemaze.com.br</p>
+                <p>contato@crccondominios.com.br</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -498,7 +499,7 @@ de
                 <div class="col-md-12 text-center">
                   <div class="loading">Carregando</div>
                   <div class="error-message"></div>
-                  <div class="sent-message">Sua mensagens foi enviada. Obrigado!</div>
+                  <div class="sent-message">Sua mensagem foi enviada. Obrigado!</div>
 
                   <button type="submit">Enviar Mensagem</button>
                 </div>
@@ -517,13 +518,11 @@ de
 
   <footer id="footer" class="footer dark-background">
     <div class="container">
-      <img src="assets/img/logo_full_new_600.png" alt="Logo" style="width: 200px; height: auto;">
-      <p>Inovação ao Alcance do Síndico</p>
+      <img src="assets/img/CRC_novo_logo_130.jpg" alt="Logo" style="width: 200px; height: auto;">
+      <p></p>
       <br>
-      <p>Horário de Atendimento: Segunda á Sexta dás 09h ás 17h</p>
         <div class="social-links d-flex justify-content-center">
-        <a href="https://www.instagram.com/agenciacodemaze" target="_blank"><i class="bi bi-instagram"></i></a>
-        <a href="https://br.linkedin.com/company/agencia-codemaze" target="_blank"><i class="bi bi-linkedin"></i></a>
+        <a href="https://www.instagram.com/cleristonramonsindico" target="_blank"><i class="bi bi-instagram"></i></a>
       </div>
       <div class="container">
         <div class="copyright">
