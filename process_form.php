@@ -13,14 +13,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $assunto = trim($_POST['assunto'] ?? '');
     $mensagem = trim($_POST['mensagem'] ?? '');
 
-    if (!getenv('SMTP_HOST')) {
-        echo "ERRO: Variáveis SMTP não carregadas.";
-    }
-        else {
-           $hostteste = getenv('SMTP_HOST');
-        echo $hostteste;
-    }
-
     if (!$emailCli || empty($nome) || empty($assunto) || empty($mensagem)) {
         echo "Dados inválidos.";
         exit;
@@ -55,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Body = "Nome: $nome\nE-mail: $emailCli\nTelefone: $telefone\nAssunto: $assunto\nMensagem: $mensagem\n";
 
         $mail->send();
-        echo "OK";
+        echo "Mensagem enviada com sucesso!";
 
     } catch (Exception $e) {
         error_log("Erro ao enviar email: " . $mail->ErrorInfo);
